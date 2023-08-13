@@ -1,0 +1,267 @@
+Copied from https://pokefarm.wiki/List_of_Pok%C3%A9mon/Variant_Pok%C3%A9mon
+Pokémon
+Type	Egg	Normal	Shiny	Albino	Melanistic
+Saiyan Rattata	Type Normal.pngType Fighting.png	Saiyan Rattata Egg.png	Saiyan Rattata.png	Shiny Saiyan Rattata.png	Albino Saiyan Rattata.png	Melanistic Saiyan Rattata.png
+IMG Codes		t/7/n/8	1/1/k/0	7/l/h/9	x/u/i/q	4/6/s/d
+Super-Saiyan Rattata	Type Normal.pngType Fighting.png		Super Saiyan Rattata.png	Shiny Super Saiyan Rattata.png	Albino Super Saiyan Rattata.png	Melanistic Super Saiyan Rattata.png
+IMG Codes			4/y/6/8	l/g/e/v	v/f/r/m	4/e/b/g
+Super-Saiyan Raticate	Type Normal.pngType Fighting.png		Super Saiyan Raticate.png	Shiny Super Saiyan Raticate.png	Albino Super Saiyan Raticate.png	Melanistic Super Saiyan Raticate.png
+IMG Codes			b/0/9/o	t/s/y/n	3/8/j/z	s/d/1/m
+Super-Saiyan 2 Raticate	Type Normal.pngType Fighting.png		Super Saiyan 2 Raticate.png	Shiny Super Saiyan 2 Raticate.png	Albino Super Saiyan 2 Raticate.png	Melanistic Super Saiyan 2 Raticate.png
+IMG Codes			x/4/0/k	m/x/g/t	p/r/v/i	w/k/5/3
+Super-Saiyan 3 Raticate	Type Normal.pngType Fighting.png		Super Saiyan 3 Raticate.png	Shiny Super Saiyan 3 Raticate.png	Albino Super Saiyan 3 Raticate.png	Melanistic Super Saiyan 3 Raticate.png
+IMG Codes			5/u/u/b	s/s/m/d	u/u/f/w	w/r/q/5
+Super-Saiyan 4 Raticate	Type Normal.pngType Fighting.png		Super Saiyan 4 Raticate.png	Shiny Super Saiyan 4 Raticate.png	Albino Super Saiyan 4 Raticate.png	Melanistic Super Saiyan 4 Raticate.png
+IMG Codes			e/3/j/z	j/6/e/u	d/1/r/5	9/w/t/h
+Savage Spearow	Type Fighting.pngType Flying.png	Savage Spearow Egg.png	Savage Spearow.png	Shiny Savage Spearow.png	Albino Savage Spearow.png	Melanistic Savage Spearow.png
+IMG Codes		2/2/a/h	k/c/7/8	b/w/e/d	9/p/u/a	t/t/w
+Savage Fearow	Type Fighting.pngType Flying.png		Savage Fearow.png	Shiny Savage Fearow.png	Albino Savage Fearow.png	Melanistic Savage Fearow.png
+IMG Codes			h/h/8/l	4/n/p/k	8/9/j/y	c/5/d/g
+Flying Pichu	Type Electric.png	Flying Pichu Egg.png	Flying Pichu.png	Shiny Flying Pichu.png	Albino Flying Pichu.png	Melanistic Flying Pichu.png
+IMG Codes		b/p/l/8	6/2/l/m	e/i/e/n	g/d/y/p	k/r/n/5
+Surfing Pichu	Type Electric.png	Surfing Pichu Egg.png	Surfing Pichu.pngFemale Surfing Pichu.png	Shiny Surfing Pichu.pngShiny Female Surfing Pichu.png	Albino Surfing Pichu.pngAlbino Female Surfing Pichu.png	Melanistic Surfing Pichu.pngMelanistic Female Surfing Pichu.png
+IMG Codes		q/i/m/w	y/a/4/m 1/b/3/f	3/l/c/r Female p/y/a/x	h/z/1/m Female f/z/e/p	y/t/r/7 Female
+Flying Pikachu	Type Electric.png		Flying Pikachu.pngFemale Flying Pikachu.png	Shiny Flying Pikachu.pngShiny Female Flying Pikachu.png	Albino Flying Pikachu.pngAlbino Female Flying Pikachu.png	Melanistic Flying Pikachu.pngMelanistic Female Flying Pikachu.png
+IMG Codes			4/2/s/3 Female 2/a/p/n	6/y/o Female q/f/0/6	2/6/t/g Female m/x/6/k	h/z/7/d Female k/8/m/x
+Surfing Pikachu	Type Electric.png		Surfing Pikachu.pngFemale Surfing Pikachu.png	Shiny Surfing Pikachu.pngShiny Female Surfing Pikachu.png	Albino Surfing Pikachu.pngAlbino Female Surfing Pikachu.png	Melanistic Surfing Pikachu.pngMelanistic Female Surfing Pikachu.png
+IMG Codes			f/g/e/l Female v/5/m/c	z/n/e/a Female 4/p/c/v	l/z/3/f Female r/0/6/p	7/k/l/q Female 3/i/5/3
+Snowboarding Pikachu	Type Electric.png		Snowboarding Pikachu.pngFemale Snowboarding Pikachu.png	Shiny Snowboarding Pikachu.pngShiny Female Snowboarding Pikachu.png	Albino Snowboarding Pikachu.pngAlbino Female Snowboarding Pikachu.png	Melanistic Snowboarding Pikachu.pngMelanistic Female Snowboarding Pikachu.png
+IMG Codes			7/7/x/i Female l/s/1/7	a/x/2/c Female c/z/t/t	w/2/0/b Female 5/5/8/e	Female g/z/n/e
+Flying Raichu	Type Electric.pngType Flying.png		Flying Raichu.pngFemale Flying Raichu.png	Shiny Flying Raichu.pngShiny Female Flying Raichu.png	Albino Flying Raichu.pngAlbino Female Flying Raichu.png	Melanistic Flying Raichu.pngMelanistic Female Flying Raichu.png
+IMG Codes			2/1/0/j Female 5/u/p/o	k/e/t/i Female 4/r/a/t	s/u/i/r Female s/c/n/t	w/n/7/3 Female u/k/u/m
+Surfing Raichu	Type Electric.pngType Water.png		Surfing Raichu.pngFemale Surfing Raichu.png	Shiny Surfing Raichu.pngShiny Female Surfing Raichu.png	Albino Surfing Raichu.pngAlbino Female Surfing Raichu.png	Melanistic Surfing Raichu.pngMelanistic Female Surfing Raichu.png
+IMG Codes			y/o/d/f Female o/q/c/w	f/4/j/0 Female i/o/p/v	z/p/7/c Female s/y/k/z	u/j/n/m Female h/5/l/k
+Snowboarding Raichu	Type Electric.pngType Ice.png		Snowboarding Raichu.pngFemale Snowboarding Raichu.png	Shiny Snowboarding Raichu.pngShiny Female Snowboarding Raichu.png	Albino Snowboarding Raichu.pngAlbino Female Snowboarding Raichu.png	Melanistic Snowboarding Raichu.pngMelanistic Female Snowboarding Raichu.png
+IMG Codes			g/2/i/0 Female 3/n/b/g	a/i/r/6 Female i/6/u/a	v/c/9/9 Female 1/1/t/x	3/l/5/z Female 3/5/x/l
+Shooting Star Cleffa	Type Fairy.png	Shooting Star Cleffa Egg.png	Shooting Star Cleffa.png	Shiny Shooting Star Cleffa.png	Albino Shooting Star Cleffa.png	Melanistic Shooting Star Cleffa.png
+IMG Codes		x/u/8/z	e/n/1/q	k/n/s/d	d/f/b/k	y/b/7/g
+Shooting Star Clefairy	Type Fairy.png		Shooting Star Clefairy.png	Shiny Shooting Star Clefairy.png	Albino Shooting Star Clefairy.png	Melanistic Shooting Star Clefairy.png
+IMG Codes			e/l/l/x	k/z/1/5	o/e/3/x	5/d/g/y
+Shooting Star Clefable	Type Fairy.png		Shooting Star Clefable.png	Shiny Shooting Star Clefable.png	Albino Shooting Star Clefable.png	Melanistic Shooting Star Clefable.png
+IMG Codes			4/p/e/p	d/a/v/h	v/k/h/g	k/u/h/4
+Koroku	Type Fire.pngType Ice.png	Koroku Egg.png	Koroku.png	Shiny Koroku.png	Albino Koroku.png	Melanistic Koroku.png
+IMG Codes		e/r/g/t	t/i/o/0	g/t/c	n/w/p/i	o/9/t/w
+Kyukori	Type Fire.pngType Ice.png		Kyukori.png	Shiny Kyukori.png	Albino Kyukori.png	Melanistic Kyukori.png
+IMG Codes			c/8/g/2	3/1/z/1	f/r/p/8	6/2/d/z
+Guild Igglybuff	Type Normal.pngType Fairy.png	Guild Igglybuff Egg.png	Guild Igglybuff.png	Shiny Guild Igglybuff.png	Albino Guild Igglybuff.png	Melanistic Guild Igglybuff.png
+IMG Codes		p/o/p/n	g/x/p/b	e/m/f/z	i/f/i/3	s/q/e/d
+Guild Jigglypuff	Type Normal.pngType Fairy.png		Guild Jigglypuff.png	Shiny Guild Jigglypuff.png	Albino Guild Jigglypuff.png	Melanistic Guild Jigglypuff.png
+IMG Codes			7/9/1/n	b/e/8/9	g/8/x/n	r/v/a/i
+Guild Wigglytuff	Type Normal.pngType Fairy.png		Guild Wigglytuff.png	Shiny Guild Wigglytuff.png	Albino Guild Wigglytuff.png	Melanistic Guild Wigglytuff.png
+IMG Codes			e/1/q/m	h/y/d/f	a/i/j/4	h/k/q/l
+Apocalyptic Growlithe	Type Fire.png	Apocalyptic Growlithe Egg.png	Apocalyptic Growlithe.png	Shiny Apocalyptic Growlithe.png	Albino Apocalyptic Growlithe.png	Melanistic Apocalyptic Growlithe.png
+IMG Codes		t/k/3/5	m/2/2/z	6/5/j/7	8/k/g/p	8/d/e/q
+Apocalyptic Arcanine	Type Fire.pngType Fire.png		Apocalyptic Arcanine.png	Shiny Apocalyptic Arcanine.png	Albino Apocalyptic Arcanine.png	Melanistic Apocalyptic Arcanine.png
+IMG Codes			s/e/7/y	6/p/0/n	7/u/6/f	i/p/7/r
+Snowpoke	Type Ice.pngType Psychic.png	Snowpoke Egg.png	Snowpoke.png	Shiny Snowpoke.png	Albino Snowpoke.png	Melanistic Snowpoke.png
+IMG Codes		h/2/l/9	1/n/b/r	7/5/h/7	b/m/l/n	x/n/0/m
+Snowbro	Type Ice.pngType Psychic.png		Snowbro.png	Shiny Snowbro.png	Albino Snowbro.png	Melanistic Snowbro.png
+IMG Codes			q/r/d/l	r/c/7/f	m/v/8/i	5/3/5/h
+Snowking	Type Ice.pngType Psychic.png		Snowking.png	Shiny Snowking.png	Albino Snowking.png	Melanistic Snowking.png
+IMG Codes			m/4/b/q	k/m/i/s	r/m/g/f	4/h/g/i
+Death Star Voltorb	Type Electric.png	Death Star Voltorb Egg.png	Death Star Voltorb.png	Shiny Death Star Voltorb.png	Albino Death Star Voltorb.png	Melanistic Death Star Voltorb.png
+IMG Codes		q/r/9/c	s/s/6/4	z/x/k/z	l/v/c/z	t/3/a/y
+Death Star Electrode	Type Electric.png		Death Star Electrode.png	Shiny Death Star Electrode.png	Albino Death Star Electrode.png	Melanistic Death Star Electrode.png
+IMG Codes			3/y/h/p	i/n/z/r	t/5/y/x	7/l/r/9
+Early Bird Natu	Type Psychic.pngType Flying.png	Early Bird Natu Egg.png	Early Bird Natu.png	Shiny Early Bird Natu.png	Albino Early Bird Natu.png	Melanistic Early Bird Natu.png
+IMG Codes		w/q/8/v	i/2/g/3	a/h/9/1	f/z/x/m	r/u/w/a
+Early Bird Xatu	Type Psychic.pngType Flying.png		Early Bird Xatu.pngFemale Early Bird Xatu.png	Shiny Early Bird Xatu.pngShiny Female Early Bird Xatu.png	Albino Early Bird Xatu.pngAlbino Female Early Bird Xatu.png	Melanistic Early Bird Xatu.pngMelanistic Female Early Bird Xatu.png
+IMG Codes			o/9/a/v Female v/z/8/y	j/c/d/n Female m/7/v/1	3/x/c Female l/8/z/m	r/4/m/n Female 4/f/t/9
+Galvanic Wooper	Type Electric.png	Galvanic Wooper Egg.png	Galvanic Wooper.png	Shiny Galvanic Wooper.png	Albino Galvanic Wooper.png	Melanistic Galvanic Wooper.png
+IMG Codes		8/k/t/a	u/f/p/v	p/b/0/i	e/o/5/c	w/3/6/1
+Galvanic Quagsire	Type Electric.png		Galvanic Quagsire.png	Shiny Galvanic Quagsire.png	Albino Galvanic Quagsire.png	Melanistic Galvanic Quagsire.png
+IMG Codes			k/n/g/p	r/n/5/q	c/g/y/b	8/9/n/s
+Vampire Gligar	Type Ground.pngType Flying.png	Vampire Gligar Egg.png	Vampire Gligar.png	Shiny Vampire Gligar.png	Albino Vampire Gligar.png	Melanistic Vampire Gligar.png
+IMG Codes		2/a/b/4	p/c/8/n	5/c/o/k	n/a/5/o	q/y/j/a
+Vampire Gliscor	Type Ground.pngType Flying.png		Vampire Gliscor.png	Shiny Vampire Gliscor.png	Albino Vampire Gliscor.png	Melanistic Vampire Gliscor.png
+IMG Codes			u/k/t/k	d/8/0/6	c/k/x/k	n/j/z/1
+Scaracross	Type Bug.pngType Ghost.png	Scaracross Egg.png	Scaracross.png	Shiny Scaracross.png	Albino Scaracross.png	Melanistic Scaracross.png
+IMG Codes		5/l/v/g	t/8/9/7	a/c/o/2	u/k/4/c	k/d/c/r
+Snichu	Type Dark.pngType Electric.png	Snichu Egg.png	Snichu.pngFemale Snichu.png	Shiny Snichu.pngShiny Female Snichu.png	Albino Snichu.pngAlbino Female Snichu.png	Melanistic Snichu.pngMelanistic Female Snichu.png
+IMG Codes		y/8/5/p	r/9/l/9 Female w/b/0/q	g/2/f/q Female e/u/r/3	l/r/d/l Female z/p/t/m	l/l/5/y Female l/1/c/m
+Vilechu	Type Dark.pngType Electric.png		Vilechu.pngFemale Vilechu.png	Shiny Vilechu.pngShiny Female Vilechu.png	Albino Vilechu.pngAlbino Female Vilechu.png	Melanistic Vilechu.pngMelanistic Female Vilechu.png
+IMG Codes			a/1/7/9 Female v/g/j/2	o/1/k/j Female i/j/q/k	r/1/n/7 Female y/c/d/k	8/h/k/z Female 4/0/8/k
+Teddicursa	Type Normal.pngType Ghost.png	Teddicursa Egg.png	Teddicursa.png	Shiny Teddicursa.png	Albino Teddicursa.png	Melanistic Teddicursa.png
+IMG Codes		9/u/f/z	n/g/c/s	u/x/q	o/l/v/l	t/e/l/0
+Cursaring	Type Normal.pngType Ghost.png		Cursaring.png	Shiny Cursaring.png	Albino Cursaring.png	Melanistic Cursaring.png
+IMG Codes			6/g/z/g	o/u/o/q	d/a/n/5	n/1/n/x
+Blue Moon Slugma	Type Water.png	Blue Moon Slugma Egg.png	Blue Moon Slugma.png	Shiny Blue Moon Slugma.png	Albino Blue Moon Slugma.png	Melanistic Blue Moon Slugma.png
+IMG Codes		3/g/i/0	n/r/2/b	q/t/n/4	r/r/p/z	y/5/g
+Blue Moon Magcargo	Type Water.pngType Rock.png		Blue Moon Magcargo.png	Shiny Blue Moon Magcargo.png	Albino Blue Moon Magcargo.png	Melanistic Blue Moon Magcargo.png
+IMG Codes			w/g/w/a	z/f/j/7	b/o/k/4	z/h/h/6
+Orthrus	Type Fire.pngType Dragon.png	Orthrus Houndour Egg.png	Orthrus Houndour.png	Shiny Orthrus Houndour.png	Albino Orthrus Houndour.png	Melanistic Orthrus Houndour.png
+IMG Codes		9/8/x/o	d/4/h/k	p/0/u/f	s/w/v	2/l/s/o
+Frosdour	Type Dark.pngType Ice.png	Frosdour Egg.png	Frosdour.png	Shiny Frosdour.png	Albino Frosdour.png	Melanistic Frosdour.png
+IMG Codes		x/0/e/e	v/h/w/u	t/f/r/r	p/a/n	n/m/3/w
+Cerberus	Type Fire.pngType Dragon.png		Cerberus Houndoom.png	Shiny Cerberus Houndoom.png	Albino Cerberus Houndoom.png	Melanistic Cerberus Houndoom.png
+IMG Codes			r/v/l/4	c/n/m/r	7/3/k/h	n/7/p/l
+Chilldoom	Type Dark.pngType Ice.png		Chilldoom.png	Shiny Chilldoom.png	Albino Chilldoom.png	Melanistic Chilldoom.png
+IMG Codes			p/z/j/g	9/y/1/z	h/k/s/5	d/m/9/3
+XD001	Type Psychic.pngType Flying.png	XD001 Egg.png	XD001.png	Shiny XD001.png	Albino XD001.png	Melanistic XD001.png
+IMG Codes		t/g/4/3	9/j/b/f	v/5/b/h	z/t/7/w	n/t/8/v
+Inferno Torchic	Type Fire.pngType Dark.png	Inferno Torchic Egg.png	Inferno Torchic.png	Shiny Inferno Torchic.png	Albino Inferno Torchic.png	Melanistic Inferno Torchic.png
+IMG Codes		a/t/7/8	s/p/0/g	f/k/j/3	v/h/k/m	u/q/6/a
+Inferno Combusken	Type Fire.pngType Dark.png		Inferno Combusken.png	Shiny Inferno Combusken.png	Albino Inferno Combusken.png	Melanistic Inferno Combusken.png
+IMG Codes			m/9/o/z	4/s/w/a	g/m/h/t	a/m/m/x
+Inferno Blaziken	Type Fire.pngType Dark.png		Inferno Blaziken.png	Shiny Inferno Blaziken.png	Albino Inferno Blaziken.png	Melanistic Inferno Blaziken.png
+IMG Codes			j/w/m/c	h/w/2/1	1/a/2/y	i/p/v/e
+Apocalyptic Poochyena	Type Dark.pngType Ghost.png	Apocalyptic Poochyena Egg.png	Apocalyptic Poochyena.png	Shiny Apocalyptic Poochyena.png	Albino Apocalyptic Poochyena.png	Melanistic Apocalyptic Poochyena.png
+IMG Codes		i/f/i/n	t/f/4/n	z/w/a/x	t/6/5/0	2/0/0/r
+Apocalyptic Mightyena	Type Dark.pngType Ghost.png		Apocalyptic Mightyena.png	Shiny Apocalyptic Mightyena.png	Albino Apocalyptic Mightyena.png	Melanistic Apocalyptic Mightyena.png
+IMG Codes			a/t/e	e/8/g/x	r/c/1/g	x/h/r/r
+Snoralts	Type Ice.pngType Fairy.png	Snoralts Egg.png	Snoralts.png	Shiny Snoralts.png	Albino Snoralts.png	Melanistic Snoralts.png
+IMG Codes		m/6/h/x	p/l/o/g	a/3/2	e/9/y/e	4/9/v/3
+Snolia	Type Ice.pngType Fairy.png		Snolia.png	Shiny Snolia.png	Albino Snolia.png	Melanistic Snolia.png
+IMG Codes			7/b/9/q	b/5/0/k	2/a/9/o	t/w/v/u
+Frosvoir	Type Ice.pngType Ghost.png		Frosvoir.png	Shiny Frosvoir.png	Albino Frosvoir.png	Melanistic Frosvoir.png
+IMG Codes			e/k/o/a	l/0/k/b	c/t/7/0	p/q/f/s
+Glaillade	Type Ice.pngType Fighting.png		Glaillade.png	Shiny Glaillade.png	Albino Glaillade.png	Melanistic Glaillade.png
+IMG Codes			y/8/t/t	t/p/5/6	c/r/e/a	5/4/y/1
+Apocalyptic Shroomish	Type Grass.pngType Poison.png	Apocalyptic Shroomish Egg.png	Apocalyptic Shroomish.png	Shiny Apocalyptic Shroomish.png	Albino Apocalyptic Shroomish.png	Melanistic Apocalyptic Shroomish.png
+IMG Codes		d/e/w/e	k/k/k/j	q/7/c	q/9/7/r	j/x/z/d
+Apocalyptic Breloom	Type Grass.pngType Poison.png		Apocalyptic Breloom.png	Shiny Apocalyptic Breloom.png	Albino Apocalyptic Breloom.png	Melanistic Apocalyptic Breloom.png
+IMG Codes			l/c/s/9	m/2/5/w	m/g/p/5	8/t/7/z
+Arctic Numel	Type Ice.pngType Ground.png	Arctic Numel Egg.png	Arctic Numel.pngFemale Arctic Numel.png	Shiny Arctic Numel.pngShiny Female Arctic Numel.png	Albino Arctic Numel.pngAlbino Female Arctic Numel.png	Melanistic Arctic Numel.pngMelanistic Female Arctic Numel.png
+IMG Codes		u/h/t/9	s/7/x/a Female 2/0/p/x	6/h/o/w Female p/5/1/o	8/7/m/8 Female l/u/4/i	m/u/j/q Female c/s/q/e
+Arctic Camerupt	Type Ice.pngType Ground.png		Arctic Camerupt.pngFemale Arctic Camerupt.png	Shiny Arctic Camerupt.pngShiny Female Arctic Camerupt.png	Albino Arctic Camerupt.pngAlbino Female Arctic Camerupt.png	Melanistic Arctic Camerupt.pngMelanistic Female Arctic Camerupt.png
+IMG Codes			n/1/e/l Female e/a/g/k	7/p/9/o Female z/t/d/k	n/j/u/u Female f/s/m/x	b/l/1/f Female 8/t/i/v
+Ryukuza	Type Dragon.pngType Flying.png	Ryukuza Egg.png	Ryukuza.png	Shiny Ryukuza.png	Albino Ryukuza.png	Melanistic Ryukuza.png
+IMG Codes		s/k/d/4	5/z/w/s	b/y/u/n	i/o/3/k	9/1/6/v
+Magquaza	Type Dragon.pngType Ghost.png	Magquaza Egg.png	Magquaza.png	Shiny Magquaza.png	Albino Magquaza.png	Melanistic Magquaza.png
+IMG Codes		p/5/l/k	z/r/4/e	w/x/o/d	d/0/i	i/k/2/o
+Spring Seasonal Turtwig	Type Grass.png	Spring Seasonal Turtwig Egg.png	Spring Seasonal Turtwig.png	Shiny Spring Seasonal Turtwig.png	Albino Spring Seasonal Turtwig.png	Melanistic Spring Seasonal Turtwig.png
+IMG Codes		f/k/h/8	3/z/s/w	7/7/z/9	m/5/v/t	5/r/q/k
+Summer Seasonal Turtwig	Type Grass.png	Summer Seasonal Turtwig Egg.png	Summer Seasonal Turtwig.png	Shiny Summer Seasonal Turtwig.png	Albino Summer Seasonal Turtwig.png	Melanistic Summer Seasonal Turtwig.png
+IMG Codes		5/g/a/a	g/4/h/g	p/n/s/1	p/w/t/f	9/4/m/q
+Autumn Seasonal Turtwig	Type Grass.png	Autumn Seasonal Turtwig Egg.png	Autumn Seasonal Turtwig.png	Shiny Autumn Seasonal Turtwig.png	Albino Autumn Seasonal Turtwig.png	Melanistic Autumn Seasonal Turtwig.png
+IMG Codes		a/s/6/y	9/c/y/7	o/y/k/c	i/y/5/h	m/i/u/j
+Winter Seasonal Turtwig	Type Grass.png	Winter Seasonal Turtwig Egg.png	Winter Seasonal Turtwig.png	Shiny Winter Seasonal Turtwig.png	Albino Winter Seasonal Turtwig.png	Melanistic Winter Seasonal Turtwig.png
+IMG Codes		5/0/6/d	8/b/x/e	8/8/e/8	s/a/l/v	h/z/6/3
+Spring Seasonal Grotle	Type Grass.png		Spring Seasonal Grotle.png	Shiny Spring Seasonal Grotle.png	Albino Spring Seasonal Grotle.png	Melanistic Spring Seasonal Grotle.png
+IMG Codes			5/t/t/g	8/c/f/a	j/y/v/8	b/6/m/6
+Summer Seasonal Grotle	Type Grass.png		Summer Seasonal Grotle.png	Shiny Summer Seasonal Grotle.png	Albino Summer Seasonal Grotle.png	Melanistic Summer Seasonal Grotle.png
+IMG Codes			b/1/h/j	g/q/9/g	k/k/g/t	4/q/k/h
+Autumn Seasonal Grotle	Type Grass.png		Autumn Seasonal Grotle.png	Shiny Autumn Seasonal Grotle.png	Albino Autumn Seasonal Grotle.png	Melanistic Autumn Seasonal Grotle.png
+IMG Codes			r/r/0/r	4/7/c/c	h/u/l/6	s/i/q/z
+Winter Seasonal Grotle	Type Grass.png		Winter Seasonal Grotle.png	Shiny Winter Seasonal Grotle.png	Albino Winter Seasonal Grotle.png	Melanistic Winter Seasonal Grotle.png
+IMG Codes			v/n/c/b	z/h/2/1	7/x/6/d	f/f/b/8
+Spring Seasonal Torterra	Type Grass.png		Spring Seasonal Torterra.png	Shiny Spring Seasonal Torterra.png	Albino Spring Seasonal Torterra.png	Melanistic Spring Seasonal Torterra.png
+IMG Codes			q/h/j/d	q/r/9/o	y/1/0/g	l/y/a/o
+Summer Seasonal Torterra	Type Grass.png		Summer Seasonal Torterra.png	Shiny Summer Seasonal Torterra.png	Albino Summer Seasonal Torterra.png	Melanistic Summer Seasonal Torterra.png
+IMG Codes			a/0/o/g	c/h/k/h	v/b/c/j	4/q/k/h
+Autumn Seasonal Torterra	Type Grass.png		Autumn Seasonal Torterra.png	Shiny Autumn Seasonal Torterra.png	Albino Autumn Seasonal Torterra.png	Melanistic Autumn Seasonal Torterra.png
+IMG Codes			q/m/9/8	v/3/a/d	9/v/n/d	m/2/c/y
+Winter Seasonal Torterra	Type Grass.png		Winter Seasonal Torterra.png	Shiny Winter Seasonal Torterra.png	Albino Winter Seasonal Torterra.png	Melanistic Winter Seasonal Torterra.png
+IMG Codes			p/z/g/y	f/s/t/z	2/7/v/p	u/w/x/9
+Igneous Bidoof	Type Fire.png	Igneous Bidoof Egg.png	Igneous Bidoof.png	Shiny Igneous Bidoof.png	Albino Igneous Bidoof.png	Melanistic Igneous Bidoof.png
+IMG Codes		e/8/4/l	h/z/h/2	y/9/c/c	h/m/l/5	r/d/m/5
+Igneous Bibarel	Type Fire.pngType Rock.png		Igneous Bibarel.png	Shiny Igneous Bibarel.png	Albino Igneous Bibarel.png	Melanistic Igneous Bibarel.png
+IMG Codes			1/2/z/s	b/n/8/9	y/c/n/7	l/j/f/u
+Shinxel	Type Electric.pngType Water.png	Shinxel Egg.png	Shinxel.pngFemale Shinxel.png	Shiny Shinxel.pngShiny Female Shinxel.png	Albino Shinxel.pngAlbino Female Shinxel.png	Melanistic Shinxel.pngMelanistic Female Shinxel.png
+IMG Codes		v/h/8/n	3/y/3/f Female d/b/h/x	6/m/u/q Female f/o/j/i	g/w/g/6 Female n/a/u/r	t/f/r/k Female z/j/f/t
+Fluxio	Type Electric.pngType Water.png		Fluxio.pngFemale Fluxio.png	Shiny Fluxio.pngShiny Female Fluxio.png	Albino Fluxio.pngAlbino Female Fluxio.png	Melanistic Fluxio.pngMelanistic Female Fluxio.png
+IMG Codes			j/g/k/1 Female w/q/g/y	d/u/l/a Female x/y/7/s	x/y/b/8 Female d/u/y/5	h/0/z/e Female b/l/d/z
+Fluxray	Type Electric.pngType Water.png		Fluxray.pngFemale Fluxray.png	Shiny Fluxray.pngShiny Female Fluxray.png	Albino Fluxray.pngAlbino Female Fluxray.png	Melanistic Fluxray.pngMelanistic Female Fluxray.png
+IMG Codes			h/9/8/c Female 8/q/x/r	i/k/9/n Female 4/0/a/n	8/y/s/y Female x/0/q/p	t/p/y/v Female f/3/e/9
+Mega Fluxray Q	Type Electric.pngType Water.png		Mega Fluxray Q.png	Shiny Mega Fluxray Q.png	Albino Mega Fluxray Q.png	Melanistic Mega Fluxray Q.png
+IMG Codes			j/i/c/t	b/5/o/3	p/s/e/3	a/h/e/1
+Snow Combee	Type Bug.pngType Ice.png	Snow Combee Egg.png	Snow Combee.pngFemale Snow Combee.png	Shiny Snow Combee.pngShiny Female Snow Combee.png	Albino Snow Combee.pngAlbino Female Snow Combee.png	Melanistic Snow Combee.pngMelanistic Female Snow Combee.png
+IMG Codes		6/h/b/q	w/f/a/x Female d/v/h/z	p/e/6/l Female u/x/1/7	h/d/g/z Female g/b/h/b	3/6/p/r Female 7/w/8/l
+Snow Vespiquen	Type Bug.pngType Ice.png		Snow Vespiquen.png	Shiny Snow Vespiquen.png	Albino Snow Vespiquen.png	Melanistic Snow Vespiquen.png
+IMG Codes			f/i/z/5	l/e/q/s	x/x/a/l	l/t/4/j
+Siberian Glameow	Type Normal.pngType Ice.png	Siberian Glameow Egg.png	Siberian Glameow.png	Shiny Siberian Glameow.png	Albino Siberian Glameow.png	Melanistic Siberian Glameow.png
+IMG Codes		e/p/4/p	e/x/v/6	q/y/9/a	m/6/d/j	a/m/0/4
+Siberian Purugly	Type Normal.pngType Ice.png		Siberian Purugly.png	Shiny Siberian Purugly.png	Albino Siberian Purugly.png	Melanistic Siberian Purugly.png
+IMG Codes			e/u/9/1	n/o/6/c	k/a/q/e	v/m/7/y
+Gibolu	Type Dragon.pngType Fighting.png	Gibolu Egg.png	Gibolu.pngFemale Gibolu.png	Shiny Gibolu.pngShiny Female Gibolu.png	Albino Gibolu.pngAlbino Female Gibolu.png	Melanistic Gibolu.pngMelanistic Female Gibolu.png
+IMG Codes		6/w/1/z	o/x/f/p Female 7/c/g/z	n/f/9/5 Femaley/5/l/r	1/p/4/2 Female2/3/b/v	b/c/r/7 Femaleh/7/d/f
+Gabolu	Type Dragon.pngType Fighting.png		Gabolu.pngFemale Gabolu.png	Shiny Gabolu.pngShiny Female Gabolu.png	Albino Gabolu.pngAlbino Female Gabolu.png	Melanistic Gabolu.pngMelanistic Female Gabolu.png
+IMG Codes			z/0/n/z Female n/u/o/9	w/y/a/b Femalew/d/5/n	h/7/9/5 Femaleg/q/v/w	5/e/8/d Femalea/9/t/n
+Garcario	Type Dragon.pngType Fighting.png		Garcario.pngFemale Garcario.png	Shiny Garcario.pngShiny Female Garcario.png	Albino Garcario.pngAlbino Female Garcario.png	Melanistic Garcario.pngMelanistic Female Garcario.png
+IMG Codes			k/q/g/d Female 5/m/8/f	u/8/5/u Femalew/r/v/k	w/4/f/1 Femaleo/s/7/j	z/w/r/i Female8/y/u/3
+Primal Dialga Q	Type Steel.pngType Dragon.png		Primal Dialga Q.png	Shiny Primal Dialga Q.png	Albino Primal Dialga Q.png	Melanistic Primal Dialga Q.png
+IMG Codes			k/2/u/q	m/1/p/v	1/x/3/m	n/d/l/m
+Primal Palkia Q	Type Water.pngType Dragon.png		Primal Palkia Q.png	Shiny Primal Palkia Q.png	Albino Primal Palkia Q.png	Melanistic Primal Palkia Q.png
+IMG Codes			a/i/1/5	t/y/g/y	9/m/0/r	6/8/z/u
+Hallowe'en Witch Purrloin	Type Dark.png	Hallowe'en Witch Purrloin Egg.png	Hallowe'en Witch Purrloin.png	Shiny Hallowe'en Witch Purrloin.png	Albino Hallowe'en Witch Purrloin.png	Melanistic Hallowe'en Witch Purrloin.png
+IMG Codes		9/r/1/3	c/w/q/d	t/l/p/g	7/x/x/b	5/w/x/y
+Hallowe'en Witch Liepard	Type Dark.png		Hallowe'en Witch Liepard.png	Shiny Hallowe'en Witch Liepard.png	Albino Hallowe'en Witch Liepard.png	Melanistic Hallowe'en Witch Liepard.png
+IMG Codes			4/d/1/0	s/c/c/e	v/2/g/6	2/m/1/p
+Bubbly Frillish	Type Psychic.pngType Ghost.png	Bubbly Frillish Egg.png	Bubbly Frillish.pngFemale Bubbly Frillish.png	Shiny Bubbly Frillish.pngShiny Female Bubbly Frillish.png	Albino Bubbly Frillish.pngAlbino Female Bubbly Frillish.png	Melanistic Bubbly Frillish.pngMelanistic Female Bubbly Frillish.png
+IMG Codes		y/y/8/o	x/i/u/y Female 5/1/m/a	t/1/2/d Female s/3/9/j	p/q/1/9 Female 1/e/9/u	r/q/y/2 Female 5/e/x/v
+Bubbly Jellicent	Type Psychic.pngType Ghost.png		Bubbly Jellicent.pngFemale Bubbly Jellicent.png	Shiny Bubbly Jellicent.pngShiny Female Bubbly Jellicent.png	Albino Bubbly Jellicent.pngAlbino Female Bubbly Jellicent.png	Melanistic Bubbly Jellicent.pngMelanistic Female Bubbly Jellicent.png
+IMG Codes			o/x/n/5 Female x/t/h/a	o/d/t/0 Female 4/q/r/y	i/p/k/r Female k/7/v/2	l/i/f/c Female j/c/x/a
+Apocalyptic Golett	Type Rock.pngType Steel.png	Apocalyptic Golett Egg.png	Apocalyptic Golett.png	Shiny Apocalyptic Golett.png	Albino Apocalyptic Golett.png	Melanistic Apocalyptic Golett.png
+IMG Codes		7/p/3/b	q/c/p/2	p/h/y/m	c/3/y/h	t/c/a/9
+Apocalyptic Golurk	Type Rock.pngType Steel.png		Apocalyptic Golurk.png	Shiny Apocalyptic Golurk.png	Albino Apocalyptic Golurk.png	Melanistic Apocalyptic Golurk.png
+IMG Codes			k/5/h/m	g/y/8/7	z/a/3/q	7/b/5/v
+Glileo	Type Fire.pngType Poison.png	Glileo Egg.png	Glileo.pngFemale Glileo.png	Shiny Glileo.pngShiny Female Glileo.png	Albino Glileo.pngAlbino Female Glileo.png	Melanistic Glileo.pngMelanistic Female Glileo.png
+IMG Codes		u/7/c/q	x/w/q/x Female f/x/t/e	3/j/w/h Female z/7/f/b	r/1/x/6 Female 2/k/f/g	f/1/p/b Female 7/c/3/7
+Pyriscor	Type Fire.pngType Poison.png		Pyriscor.pngFemale Pyriscor.png	Shiny Pyriscor.pngShiny Female Pyriscor.png	Albino Pyriscor.pngAlbino Female Pyriscor.png	Melanistic Pyriscor.pngMelanistic Female Pyriscor.png
+IMG Codes			m/7/m/v Female f/9/4/8	a/x/k/4 Female 8/r/g/z	o/u/r/q Female 8/j/1/h	b/j/7/t Female n/q/s/5
+Rose Gift Honedge	Type Steel.pngType Grass.png	Rose Gift Honedge Egg.png	Rose Gift Honedge.png	Shiny Rose Gift Honedge.png	Albino Rose Gift Honedge.png	Melanistic Rose Gift Honedge.png
+IMG Codes		z/6/i	1/r/8/a	/i/k/j/l	e/b/0/v	z/p/7/m
+Rose Gift Doublade	Type Steel.pngType Grass.png		Rose Gift Doublade.png	Shiny Rose Gift Doublade.png	Albino Rose Gift Doublade.png	Melanistic Rose Gift Doublade.png
+IMG Codes			o/d/5/y	5/i/6/1	u/0/m/n	p/v/s/b
+Rose Shield Aegislash	Type Steel.pngType Grass.png		Rose Shield Aegislash.png	Shiny Rose Shield Aegislash.png	Albino Rose Shield Aegislash.png	Melanistic Rose Shield Aegislash.png
+IMG Codes			z/1/0/y	d/y/l/c	z/i/3/4	2/w/q/l
+Rose Bouquet Aegislash	Type Steel.pngType Grass.png		Rose Bouquet Aegislash.png	Shiny Rose Bouquet Aegislash.png	Albino Rose Bouquet Aegislash.png	Melanistic Rose Bouquet Aegislash.png
+IMG Codes			h/b/6/9	b/4/3/j	l/p/k/5	i/r/t/v
+Spritzkrow	Type Fairy.pngType Dark.png	Spritzkrow Egg.png	Spritzkrow.png	Shiny Spritzkrow.png	Albino Spritzkrow.png	Melanistic Spritzkrow.png
+IMG Codes		m/q/c/n	w/1/x/3	i/q/x/p	s/f/j/0	u/a/r/w
+Aromakrow	Type Fairy.pngType Dark.png		Aromakrow.png	Shiny Aromakrow.png	Albino Aromakrow.png	Melanistic Aromakrow.png
+IMG Codes			9/r/e/6	1/b/d/1	v/m/q/g	p/z/r/3
+Noismog	Type Psychic.pngType Dragon.png	Noismog Egg.png	Noismog.png	Shiny Noismog.png	Albino Noismog.png	Melanistic Noismog.png
+IMG Codes		l/s/w/r	2/h/4/o	7/2/6/0	o/q/w/7	b/q/0/9
+Noismoem	Type Psychic.pngType Dragon.png		Noismoem.png	Shiny Noismoem.png	Albino Noismoem.png	Melanistic Noismoem.png
+IMG Codes			g/9/8/7	q/o/y/3	f/f/s/j	q/m/n/e
+Solgavern	Type Steel.pngType Dragon.png		Solgavern.png	Shiny Solgavern.png	Albino Solgavern.png	Melanistic Solgavern.png
+IMG Codes			1/c/i/0	h/x/j/g	q/d/c/r	t/6/e/3
+Lunavern	Type Ghost.pngType Dragon.png		Lunavern.png	Shiny Lunavern.png	Albino Lunavern.png	Melanistic Lunavern.png
+IMG Codes			r/u/b/2	r/8/j/o	n/l/1/i	q/a/t/q
+Feral Incineroar	Type Fire.pngType Electric.png		Feral Incineroar.png	Shiny Feral Incineroar.png	Albino Feral Incineroar.png	Melanistic Feral Incineroar.png
+IMG Codes			e/c/v/1	y/y/b/f	a/2/q/q	m/y/s/m
+Pointe Oricorio	Type Grass.pngType Flying.png		Pointe Oricorio.png	Shiny Pointe Oricorio.png	Albino Pointe Oricorio.png	Melanistic Pointe Oricorio.png
+IMG Codes			s/8/j/g	c/l/j/w	o/y/q/p	b/1/o/s
+Magipede	Type Bug.pngType Psychic.png	Magipede Egg.png	Magipede.png	Shiny Magipede.png	Albino Magipede.png	Melanistic Magipede.png
+IMG Codes		m/7/a/a	w/q/t/k	7/c/3/q	4/d/r/m	9/s/a/6
+Mystiskorch	Type Bug.pngType Psychic.png		Mystiskorch.png	Shiny Mystiskorch.png	Albino Mystiskorch.png	Melanistic Mystiskorch.png
+IMG Codes			d/j/m/e	x/l/6/6	r/w/d/4	q/h/p/s
+Totems
+Pokémon	Type	Normal	Shiny	Albino	Melanistic
+Totem Sandslash Q	Type Ground.png	Totem Sandslash Q.png	Shiny Totem Sandslash Q.png	Albino Totem Sandslash Q.png	Melanistic Totem Sandslash Q.png
+IMG Codes		b/8/r	v/i/8/g	r/m/y/g	y/4/u/a
+Totem Lanturn Q	Type Water.pngType Electric.png	Totem Lanturn Q.png	Shiny Totem Lanturn Q.png	Albino Totem Lanturn Q.png	Melanistic Totem Lanturn Q.png
+IMG Codes		q/s/d/d	v/r/y/e	e/9/h/q	1/1/h/q
+Totem Sudowoodo Q	Type Rock.png	Totem Sudowoodo Q.pngFemale Totem Sudowoodo Q.png	Shiny Totem Sudowoodo Q.pngShiny Female Totem Sudowoodo Q.png	Albino Totem Sudowoodo Q.pngAlbino Female Totem Sudowoodo Q.png	Melanistic Totem Sudowoodo Q.pngMelanistic Female Totem Sudowoodo Q.png
+IMG Codes		1/a/v/z Female c/9/l/j	z/p/k/t Female s/a/x/y	o/k/u/r Female f/u/9/o	r/z/4/8 Female j/a/l/4
+Totem Donphan Q	Type Ground.png	Totem Donphan Q.pngFemale Totem Donphan Q.png	Shiny Totem Donphan Q.pngShiny Female Totem Donphan Q.png	Albino Totem Donphan Q.pngAlbino Female Totem Donphan Q.png	Melanistic Totem Donphan Q.pngMelanistic Female Totem Donphan Q.png
+IMG Codes		2/l/2/c Female v/e/0/a	m/7/r/d Female s/i/8/b	i/a/x/c Female e/a/w/i	a/g/i/1 Female p/4/g/d
+Totem Whiscash Q	Type Water.pngType Ground.png	Totem Whiscash Q.png	Shiny Totem Whiscash Q.png	Albino Totem Whiscash Q.png	Melanistic Totem Whiscash Q.png
+IMG Codes		7/k/s/i	h/q/s/d	k/m/2/c	w/6/5/3
+Totem Walrein Q	Type Ice.pngType Water.png	Totem Walrein Q.png	Shiny Totem Walrein Q.png	Albino Totem Walrein Q.png	Melanistic Totem Walrein Q.png
+IMG Codes		j/o/2/a	q/4/v/7	i/h/m/j	a/n/d/i
+Totem Snow Vespiquen Q	Type Bug.pngType Ice.png	Totem Snow Vespiquen Q.png	Shiny Totem Snow Vespiquen Q.png	Albino Totem Snow Vespiquen Q.png	Melanistic Totem Snow Vespiquen Q.png
+IMG Codes		e/t/1/c	a/h/x/7	9/z/q/3	u/u/9/6
+Totem Skuntank Q	Type Poison.pngType Dark.png	Totem Skuntank Q.png	Shiny Totem Skuntank Q.png	Albino Totem Skuntank Q.png	Melanistic Totem Skuntank Q.png
+IMG Codes		l/p/v/a	s/d/7/s	8/5/1/7	g/g/t/p
+Totem Spiritomb Q	Type Ghost.pngType Dark.png	Totem Spiritomb Q.png	Shiny Totem Spiritomb Q.png	Albino Totem Spiritomb Q.png	Melanistic Totem Spiritomb Q.png
+IMG Codes		k/v/q/m	u/p/h/5	g/u/w/8	3/0/4/9
+Totem Porygon-Z Q	Type Normal.png	Totem Porygon-Z Q.png	Shiny Totem Porygon-Z Q.png	Albino Totem Porygon-Z Q.png	Melanistic Totem Porygon-Z Q.png
+IMG Codes		b/t/f/n	o/5/y/j	7/p/r/u	k/j/8/y
+Totem Leavanny Q	Type Bug.pngType Grass.png	Totem Leavanny Q.png	Shiny Totem Leavanny Q.png	Albino Totem Leavanny Q.png	Melanistic Totem Leavanny Q.png
+IMG Codes		d/q/s/y	p/g/s/w	1/p/n/a	2/j/f/s
+Totem Maractus Q	Type Grass.png	Totem Maractus Q.png	Shiny Totem Maractus Q.png	Albino Totem Maractus Q.png	Melanistic Totem Maractus Q.png
+IMG Codes		g/k/d/5	f/b/g	e/m/5/h	i/q/z/5
+Totem Galvantula Q	Type Bug.pngType Electric.png	Totem Galvantula Q.png	Shiny Totem Galvantula Q.png	Albino Totem Galvantula Q.png	Melanistic Totem Galvantula Q.png
+IMG Codes		s/h/t/g	t/m/1/7	6/7/e/k	k/l/n/2
+Totem Braviary Q	Type Normal.pngType Flying.png	Totem Braviary Q.png	Shiny Totem Braviary Q.png	Albino Totem Braviary Q.png	Melanistic Totem Braviary Q.png
+IMG Codes		3/8/c/4	8/k/h/g	o/c/q/q	o/b/8/y
+Totem Mandibuzz Q	Type Dark.pngType Flying.png	Totem Mandibuzz Q.png	Shiny Totem Mandibuzz Q.png	Albino Totem Mandibuzz Q.png	Melanistic Totem Mandibuzz Q.png
+IMG Codes		v/w/3/j	y/t/o/w	t/7/2/l	o/1/t/t
+Totem Talonflame Q	Type Fire.pngType Flying.png	Totem Talonflame Q.png	Shiny Totem Talonflame Q.png	Albino Totem Talonflame Q.png	Melanistic Totem Talonflame Q.png
+IMG Codes		e/m/y/s	d/8/t/m	a/e/o/p	f/h/q/q
+Totem Trevenant Q	Type Ghost.pngType Grass.png	Totem Trevenant Q.png	Shiny Totem Trevenant Q.png	Albino Totem Trevenant Q.png	Melanistic Totem Trevenant Q.png
+IMG Codes		g/g/9/0	q/b/r/q	y/v/s/8	n/3/2/a
+Totem Eucylph Q	Type Grass.pngType Fairy.png	Totem Eucylph Q.png	Shiny Totem Eucylph Q.png	Albino Totem Eucylph Q.png	Melanistic Totem Eucylph Q.png
+IMG Codes		8/u/p/z	o/k/s/7	e/4/f/w	z/2/c/n
